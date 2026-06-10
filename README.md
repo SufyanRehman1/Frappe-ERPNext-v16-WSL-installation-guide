@@ -1,7 +1,5 @@
-================================================================
   FRAPPE / ERPNEXT VERSION 16 - WINDOWS WSL INSTALLATION GUIDE
   Ubuntu 24.04 LTS | Frappe v16 | ERPNext v16
-================================================================
 
 NOTE: Replace [frappe-user] with your actual Linux username
       and [site-name] with your desired site name throughout.
@@ -275,4 +273,3 @@ Useful Service Commands
 
 ----------------------------------------------------------------
   Frappe / ERPNext Version 16 - WSL Installation Guide
-================================================================
